@@ -1,0 +1,24 @@
+{
+  "product": [
+    {
+      "title": "Product 1 updated",
+      "price": "5000",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Product 2 dbjson",
+      "price": 3000
+    },
+    {
+      "id": 3,
+      "title": "Product 3 dbjson",
+      "price": 4000
+    },
+    {
+      "title": "product updated",
+      "price": "45000",
+      "id": 4
+    }
+  ]
+}
